@@ -1,6 +1,7 @@
 # Maze-Solver
 
 A Python-based pathfinding algorithm visualization tool that demonstrates Dijkstra's algorithm and A* search in an interactive maze environment.
+(This is the final project for the AI course at the Egyptian Chinese University.)
 
 ## Features
 
